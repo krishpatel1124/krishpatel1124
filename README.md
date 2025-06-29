@@ -29,7 +29,7 @@
 ### 📌 My Projects
 Here are some of the projects I’ve worked on:
 
-- 📝 [**Notes Organizer (Python)**](https://github.com/krishpatel1124/notes-organizer)  
+- 📝 [**Notes Organizer (Python)**](https://github.com/krishpatel1124/NotesOrganizer)  
   Simple JSON-based notes app built with Python.
 
 - 🏏 [**Cricket Tournament Registration App**](https://github.com/krishpatel1124/cricket-registration)  
