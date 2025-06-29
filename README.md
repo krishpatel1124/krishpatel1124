@@ -35,14 +35,14 @@ Here are some of the projects I’ve worked on:
 - 🏏 [**Cricket Tournament Registration App**](https://github.com/krishpatel1124/cricket-registration)  
   A React + MongoDB based app to register and manage cricket tournament slots.
 
-- 💊 [**E - commerece website for farmer**](https://github.com/krishpatel1124/E-commerece_website_for_farmer)  
+- 💊 [**E - commerece website for farmer**](https://github.com/krishpatel1124/E-commerce_website_for_farmer)  
   An e-commerce website for farmer , sale pesticides and seeds.
 
 ---
 
 ### 🔗 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile/) *(update link)*
-- 📧 Email: krish@example.com *(update with your real email)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/krishpatel124) *(update link)*
+- 📧 Email: krishpatel1214@gmail.com *(update with your real email)*
 - 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com) *(optional)*
 
 ---
