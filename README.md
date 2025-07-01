@@ -1,13 +1,13 @@
-# 👋 Hello, I'm Krish Patel!
+#  Hello, I'm Krish Patel!
 
-🎓 BCA Student | 💻 Aspiring Full Stack Developer | 🚀 Tech Explorer
+🎓 BCA Student | Aspiring Full Stack Developer | Tech Explorer
 
 ---
 
-### 🧠 About Me
-- 👨‍🎓 I'm currently pursuing a **Bachelor of Computer Applications (BCA)**.
-- 🌱 I'm learning **Python**, **Web Development**, and **JavaScript**.
-- 💡 I love working on small projects to improve my skills and contribute to the community.
+###  About Me
+-  I'm currently pursuing a **Bachelor of Computer Applications (BCA)**.
+-  I'm learning **Python**, **Web Development**, and **JavaScript**.
+-  I love working on small projects to improve my skills and contribute to the community.
 - 🎯 Goal: To build meaningful software and become a proficient full-stack developer.
 
 ---
@@ -54,10 +54,6 @@ Here are some of the projects I’ve worked on:
 ![Krish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishpatel1124&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishpatel1124&layout=compact&theme=radical)
 
----
-
-### ✍️ Quote I Live By
-> “Learning to write programs stretches your mind and helps you think better.” – Bill Gates
 
 ---
 
