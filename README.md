@@ -32,13 +32,13 @@ Here are some of the projects I’ve worked on:
 -  [**car pooling website**](https://github.com/krishpatel1124/carpooling_website)  
   car pooling website in php + mysql.
 
-- 📝 [**Notes Organizer (Python)**](https://github.com/krishpatel1124/NotesOrganizer)  
+-  [**Notes Organizer (Python)**](https://github.com/krishpatel1124/NotesOrganizer)  
   Simple JSON-based notes app built with Python.
 
-- 🏏 [**Cricket Tournament Registration App**](https://github.com/krishpatel1124/cricket-registration)  
+-  [**Cricket Tournament Registration App**](https://github.com/krishpatel1124/cricket-registration)  
   A React + MongoDB based app to register and manage cricket tournament slots.
 
-- 💊 [**E - commerece website for farmer**](https://github.com/krishpatel1124/E-commerce_website_for_farmer)  
+-  [**E - commerece website for farmer**](https://github.com/krishpatel1124/E-commerce_website_for_farmer)  
   An e-commerce website for farmer , sale pesticides and seeds.
 
 ---
