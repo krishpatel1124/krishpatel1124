@@ -46,7 +46,7 @@ Here are some of the projects I’ve worked on:
 ### 🔗 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/krishpatel124) 
 - 📧 Email: krishpatel1214@gmail.com 
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com) *(optional)*
+- 🌐 Portfolio: [portfolio.com](-) 
 
 ---
 
