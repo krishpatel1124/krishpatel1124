@@ -42,7 +42,7 @@ Here are some of the projects I’ve worked on:
   An e-commerce website for farmer , sale pesticides and seeds.
 
 -  [**dumy anniversary website**](https://github.com/krishpatel1124/anniversary)  
-  anniversary website in javascript.
+  dummy anniversary website in javascript and css.
 
 ---
 
